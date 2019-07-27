@@ -1,5 +1,5 @@
 # Pose estimator to VJ
-A simple script based on [https://github.com/ildoonet/tf-pose-estimation] (TF Pose Estimation) by [@ildoonet](https://github.com/ildoonet) for capture video from webcamera with sending JSON and CSV data of points of body parts to VJ software like Resolume Arena and TouchDesigner via UDP and OSC.
+A simple script based on [TF Pose Estimation](https://github.com/ildoonet/tf-pose-estimation) by [@ildoonet](https://github.com/ildoonet) for capture video from webcamera with sending JSON and CSV data of points of body parts to VJ software like Resolume Arena and TouchDesigner via UDP and OSC.
 
 ![screenshot](./etc/screenshot.jpg)
 
