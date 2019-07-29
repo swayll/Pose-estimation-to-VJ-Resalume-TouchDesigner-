@@ -1,5 +1,5 @@
 # Pose estimator to VJ
-A simple script based on [TF Pose Estimation](https://github.com/ildoonet/tf-pose-estimation) by [@ildoonet](https://github.com/ildoonet) for capture video from webcamera with sending JSON and CSV data of points of body parts to VJ software like Resolume Arena and TouchDesigner via UDP and OSC.
+A simple script based on [TF Pose Estimation](https://github.com/ildoonet/tf-pose-estimation) by [@ildoonet](https://github.com/ildoonet) for capture video from webcamera with sending JSON and CSV data of points of body parts to VJ software as Resolume Arena and TouchDesigner via UDP and OSC.
 
 ![screenshot](./screenshot.jpg)
 
@@ -28,6 +28,4 @@ $ python pose_estimation_to_udp_osc.py
 Or execute pose_estimation_to_udp_osc.ipynb from Jupiter Notebook
 
 ### Requirements
-- tensorflow >= 1.8.0
-- opencv >= 3.4.1
-- TfPoseEstimator
+All requerements, dependencies and installation [here](https://github.com/ildoonet/tf-pose-estimation)
