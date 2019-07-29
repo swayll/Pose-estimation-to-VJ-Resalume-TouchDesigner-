@@ -20,7 +20,7 @@ A simple script based on [TF Pose Estimation](https://github.com/ildoonet/tf-pos
 
 ## Install & Run
 ### Install
-Just a copy files to root directory of correctly installed TF Pose Estimation (see manual at [@ildoonet](https://github.com/ildoonet) page.
+Just a copy files to root directory of correctly installed TF Pose Estimation (see manual at [@ildoonet](https://github.com/ildoonet)) page.
 ### Run
 ```bash
 $ python pose_estimation_to_udp_osc.py
@@ -28,4 +28,4 @@ $ python pose_estimation_to_udp_osc.py
 Or execute pose_estimation_to_udp_osc.ipynb from Jupiter Notebook
 
 ### Requirements
-All requerements, dependencies and installation [here](https://github.com/ildoonet/tf-pose-estimation)
+All requerements, dependencies and installation process [here](https://github.com/ildoonet/tf-pose-estimation)
